@@ -1,4 +1,4 @@
-# Busting Myths with Data
+# Myths vs. Data
 
 ## Data Sources
 ### 01. An apple a day keeps the doctor away.
